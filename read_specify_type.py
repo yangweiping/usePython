@@ -1,0 +1,1 @@
+ldw_frame = pd.read_csv('经纪人xxx信息.csv', dtype = { '身份证号': str, '电话': str, '银行卡号': str, '招募人电话': str })
